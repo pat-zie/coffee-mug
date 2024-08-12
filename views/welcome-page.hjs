@@ -1,0 +1,8 @@
+<html>
+  <body>
+    <span>Product & Order</span>
+    <br/>
+    <br/>
+    <span>Click <a href="/docs">here</a> to go to the documentation</span>
+  </body>
+</html>

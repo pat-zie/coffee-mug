@@ -1,0 +1,15 @@
+.idea
+dist
+documentation
+node_modules
+views
+.eslintrc
+.nvmrc
+handler.js
+jest.config.js
+package.json
+package-lock.json
+REAMDE.md
+tsconfig.build.json
+tsconfig.json
+.env
